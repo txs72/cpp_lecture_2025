@@ -1,0 +1,24 @@
+# 编译产物
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# 可执行文件
+hello
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
